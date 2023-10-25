@@ -14,7 +14,7 @@ primer_letra_mayusc = cadena1.capitalize()
 busqueda_find = cadena1.find("a")
 
 #buscamos una cadena en otra cadena, si no hay coincidencias lanza una excepciòn
-busqueda_index = cadena1.index("H")
+busqueda_index = cadena1.index("a")
 
 #si es numerico, devolvemos true, sino devolvemos false
 es_numerico = cadena1.isnumeric()
@@ -40,4 +40,4 @@ cadena_nueva = cadena1.replace("la","lu")
 #separar cadenas con la cadena que le pasemos
 cadena_separada = cadena1.split(" ")
 
-print(cadena_separada)
+print(busqueda_index)

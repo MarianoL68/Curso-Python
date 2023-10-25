@@ -18,4 +18,4 @@ resultado_all = all([0,"true",[344,23]])
 #suma todos los valores de un iterable
 suma_total = sum(numeros)
 
-print(numero)
+print(suma_total)
