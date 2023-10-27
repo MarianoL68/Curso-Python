@@ -1,0 +1,17 @@
+Los datos son:
+
+Nombre: Lionel
+Apellido: Messi
+--------------
+Nombre: Cristian
+Apellido: Romero
+--------------
+Nombre: Enzo
+Apellido: Fernandez
+--------------
+Nombre: Julian
+Apellido: Alvarez
+--------------
+Nombre: Rodrigo
+Apellido: De Paul
+--------------
